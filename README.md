@@ -273,7 +273,7 @@ Suggestions and corrections are welcome.
 
 **Atharva Desai**
 
-* GitHub: [atharvaM89](https://github.com/iatharva6119)
+* GitHub: [iatharva6119](https://github.com/iatharva6119)
 
 ---
 
