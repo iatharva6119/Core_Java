@@ -271,10 +271,9 @@ Suggestions and corrections are welcome.
 
 ## Author
 
-**Atharva Mahulkar**
+**Atharva Desai**
 
-* GitHub: [atharvaM89](https://github.com/atharvaM89)
-* Portfolio: [atharvam89.github.io/Portfolio](https://atharvam89.github.io/Portfolio/)
+* GitHub: [atharvaM89](https://github.com/iatharva6119)
 
 ---
 
