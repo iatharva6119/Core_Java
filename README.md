@@ -271,7 +271,7 @@ Suggestions and corrections are welcome.
 
 ## Author
 
-**Atharva Mahulkar**
+**Atharva Desai**
 
 * GitHub: [iatharva6119](https://github.com/iatharva6119)
 
