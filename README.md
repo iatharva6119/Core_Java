@@ -273,8 +273,7 @@ Suggestions and corrections are welcome.
 
 **Atharva Mahulkar**
 
-* GitHub: [atharvaM89](https://github.com/atharvaM89)
-* Portfolio: [atharvam89.github.io/Portfolio](https://atharvam89.github.io/Portfolio/)
+* GitHub: [iatharva6119](https://github.com/iatharva6119)
 
 ---
 
